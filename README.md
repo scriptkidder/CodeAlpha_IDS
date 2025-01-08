@@ -26,7 +26,7 @@ A real-time network monitoring tool built with Python, Scapy, and Tkinter. It de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ids-project.git
+   git clone https://github.com/scriptkidder/CodeAlpha_IDS.git
 
   ## Run the application:
 
