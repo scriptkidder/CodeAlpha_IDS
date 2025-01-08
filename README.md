@@ -27,3 +27,8 @@ A real-time network monitoring tool built with Python, Scapy, and Tkinter. It de
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ids-project.git
+
+  ## Run the application:
+
+```bash
+python main.py
